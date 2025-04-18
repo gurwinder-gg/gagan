@@ -1,2 +1,2 @@
 # gagan
-will learn here fro harkirat web dev
+will learn here from harkirat web dev
